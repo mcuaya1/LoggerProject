@@ -1,2 +1,1 @@
-# LoggerProject
-CIS 17B C++ project.  The logger project is used to allow someone to log hours in and out for whatever lab is available. For example if some is taking Art then they would select that lab and then log their start time in and once they are done they are to log their end time.
+The program works by allowing instructors to create a lab login system for their classes in order to track how many hours a user spends working in the lab. The program contains a login system for both students and instructors, as well as an administrator. Administrators are able to create and delete labs as well as manage instructors' and students' system information. Instructors can view student hours spent in their respective courses.
